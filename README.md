@@ -2,7 +2,7 @@
 
 Welcome to the repository for **About Me**, the personal website of Afonso Ascensão !
 
-🌐 **Live site:** [https://afonso-a2109.github.io/About-me/](https://afonso-a2109.github.io/About-me/)
+🌐 **site:** [https://afonso-a2109.github.io/About-me/](https://afonso-a2109.github.io/About-me/)
 
 ---
 
